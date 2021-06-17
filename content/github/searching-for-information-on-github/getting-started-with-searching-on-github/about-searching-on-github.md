@@ -1,5 +1,5 @@
 ---
-title: About searching on GitHub
+title: About searching on GitHubgithub:main
 intro: 'Our integrated search covers the many repositories, users, and lines of code on {% data variables.product.product_name %}.'
 redirect_from:
   - /articles/using-the-command-bar/
